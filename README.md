@@ -29,7 +29,7 @@ This tool helps artists and producers analyze the potential popularity of a trac
 * **Backend**: FastAPI
 * **Machine Learning**: Scikit-learn, LightGBM, Joblib
 * **Data Manipulation**: Pandas
-* **Container/Env**: Python venv (or Docker if applicable)
+* **Container/Env**: Docker
 
 ---
 
