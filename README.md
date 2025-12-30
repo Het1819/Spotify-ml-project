@@ -2,14 +2,14 @@
 
 A machine learning-powered application that predicts whether a song will be a "Hit" or a "Niche Track" based on its audio features and metadata. This project demonstrates an end-to-end ML deployment using **Streamlit** for the frontend and **FastAPI** for the backend logic.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spotify-ml-project-6vjr4tz5pxckmnw2unqkbl.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://spotify-ml-project-k3d6pzoqbqlopz8zplmvrj.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B)](https://streamlit.io/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688)](https://fastapi.tiangolo.com/)
 
 ## 🚀 Live Demo
 Check out the live application here:  
-**[Spotify Hit Predictor App](https://spotify-ml-project-6vjr4tz5pxckmnw2unqkbl.streamlit.app/)**
+**[Spotify Hit Predictor App](https://spotify-ml-project-k3d6pzoqbqlopz8zplmvrj.streamlit.app/)**
 
 ---
 
