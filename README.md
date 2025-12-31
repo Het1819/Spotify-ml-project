@@ -58,3 +58,16 @@ spotify-ml-project/
 ├── Spotify.ipynb        # EDA and experimentation notebook
 ├── spotify_2015_2025_85k.csv # Dataset
 └── README.md            # Project documentation
+
+## 📊 Strategic Insights & Business Analysis
+
+Beyond model performance, this project aimed to uncover behavioral drivers behind user listening habits. By analyzing audio features against popularity metrics, several key consumer insights emerged:
+
+### 1. The "Energy-Engagement" Correlation
+Exploratory Data Analysis (EDA) revealed a strong positive correlation between **Energy** and **Loudness** with **Track Popularity** within the Pop and Hip-Hop genres. 
+* **Insight:** Users in these segments prioritize high-tempo, dynamic content.
+* **Business Application:** For a streaming platform, "Cold Start" recommendations for new users in these demographics should prioritize tracks with Energy scores > 0.7 to maximize initial retention.
+
+### 2. Impact of "Acousticness" on Niche Markets
+While "Acousticness" generally showed a negative correlation with global popularity, it was the strongest predictor of engagement within the "Indie" and "Folk" sub-genres.
+* **Conclusion:** One-size-fits-all algorithms fail here. Feature weighting must be dynamic based on the user's preferred genre cluster to avoid irrelevant recommendations.
