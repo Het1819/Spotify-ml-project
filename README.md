@@ -45,6 +45,7 @@ The model is trained on `spotify_2015_2025_85k.csv`.
 * **Containerization**: Docker
 
 ## 📂 Project Structure
+```text
 spotify-ml-project/
 ├── .devcontainer/       # Dev container configuration
 ├── models/
@@ -57,6 +58,7 @@ spotify-ml-project/
 ├── Spotify.ipynb        # EDA and experimentation notebook
 ├── spotify_2015_2025_85k.csv # Dataset
 └── README.md            # Project documentation
+```
 
 ## 📊 Strategic Insights & Business Analysis
 
